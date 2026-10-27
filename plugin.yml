@@ -1,0 +1,5 @@
+name: ReusableVaults
+version: 1.0.0
+main: dev.reusablevaults.ReusableVaults
+api-version: "26.2"
+description: Trial Chamber vaults can be opened infinitely with keys.
